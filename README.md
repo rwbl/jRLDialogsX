@@ -5,6 +5,8 @@ jRLDialogsX is an open source B4J Library providing a comprehensive set of Dialo
 
 The library is written in B4J - requires v5.80 or higher and Java 8 update 40 or higher.
 
+__Version__: 1.87 (Build 20190407)
+
 #### Dialogs
 * InformationDialog
 * ExtendedDialog	
