@@ -1,11 +1,11 @@
 # b4j-library-jrldialogsx
 jRLDialogsX is an open source B4J Library providing a comprehensive set of Dialogs.
 
-[B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
-
 The library is written in B4J - requires v5.80 or higher and Java 8 update 40 or higher.
 
-__Version__: 1.87 (Build 20190407)
+[B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
+
+__Library Version__: 1.87 (Build 20190407)
 
 #### Dialogs
 * InformationDialog
