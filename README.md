@@ -67,6 +67,11 @@ __Version__: 1.87 (Build 20190407)
 * jrldialogsx.zip - library, B4J source code and sample projects
 * jrldialogsx.pdf - manual
 
+## How to Use
+* Copy jrldialogsx.jar, jrldialogsxfiles.jar and xml to the B4J additional library folder.
+* In the B4J project, select [B]jrldialogsx[/B] from the B4J IDE Libs tab.
+* See folder __Examples__ - the fullexample is a __must read__, get started with the InformationDialog.
+
 ## Licence
 Copyright (C) 2015-2019  Robert W.B. Linn
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
