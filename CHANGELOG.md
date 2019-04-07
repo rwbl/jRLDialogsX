@@ -1,6 +1,6 @@
 #### v1.87 (20190407)
-* NEW: SimpleFormDialog DatePicker via option "D"
-* NEW: YesNoCancel dialog- if Cancel text is empty, the cancel button is not created
+* NEW: SimpleFormDialog - DatePicker via option "D"
+* NEW: YesNoCancel dialog - if Cancel text is empty, the cancel button is not created
 * NEW: ListDialog, ListDialog2  - if DefaultItem = -1 then no item selected
 * UPD: Documentation & Examples
 * NEW: Published on [GitHub](https://github.com/rwbl/b4j-library-jrldialogsx)
